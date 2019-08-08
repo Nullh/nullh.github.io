@@ -2,6 +2,8 @@
 layout: default
 title: Creating A Character
 nav_order: 1
+has_children: true
+permalink: /character-creation
 ---
 
 ## Creating A Character
