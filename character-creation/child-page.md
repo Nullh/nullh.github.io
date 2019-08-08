@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Child Page
-nav_order: 1
+nav_order: 3
 parent: Creating A Character
 permalink: /character-creation
 ---
