@@ -30,25 +30,25 @@ For each priority you get the value of the column you selected for that priority
 
 For example picking Resources for Priority C gives you 150,000 nuyen.
 
-**PRIORITY**|**METATYPE**|**ATTRIBUTES**|**SKILLS**|**MAGIC OR RESONANCE**|**RESOURCES**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-A|Dwarf, Ork, Troll (13)|24|32|Full: 4 Magic, Aspected: 5 Magic, Mystic Adept:4 Magic, Adept: 4 Magic, Technomancer: 4 Resonance|450,000
-B|Dwarf, Elf, Ork, Troll (11)|16|24|Full: 3 Magic, Aspected: 4 Magic, Mystic Adept: 3 Magic, Adept: 3 Magic, Technomancer: 3 Resonance|275,000
-C|Dwarf, Elf, Human, Ork, Troll (9)|12|20|Full: 2 Magic, Aspected: 3 Magic, Mystic Adept: 2 Magic, Adept: 2 Magic, Technomancer: 2 Resonance|150,000
-D|Dwarf, Elf, Human, Ork, Troll (4)|8|16|Full: 1 Magic, Aspected: 2 Magic, Mystic Adept: 1 Magic, Adept: 1 Magic, Technomancer: 1 Resonance|50,000
-E|Dwarf, Elf, Human, Ork, Troll (1)|2|10|Mundane|8,000
+|**PRIORITY**|**METATYPE**|**ATTRIBUTES**|**SKILLS**|**MAGIC OR RESONANCE**|**RESOURCES**|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|A|Dwarf, Ork, Troll (13)|24|32|Full: 4 Magic, Aspected: 5 Magic, Mystic Adept:4 Magic, Adept: 4 Magic, Technomancer: 4 Resonance|450,000|
+|B|Dwarf, Elf, Ork, Troll (11)|16|24|Full: 3 Magic, Aspected: 4 Magic, Mystic Adept: 3 Magic, Adept: 3 Magic, Technomancer: 3 Resonance|275,000|
+|C|Dwarf, Elf, Human, Ork, Troll (9)|12|20|Full: 2 Magic, Aspected: 3 Magic, Mystic Adept: 2 Magic, Adept: 2 Magic, Technomancer: 2 Resonance|150,000|
+|D|Dwarf, Elf, Human, Ork, Troll (4)|8|16|Full: 1 Magic, Aspected: 2 Magic, Mystic Adept: 1 Magic, Adept: 1 Magic, Technomancer: 1 Resonance|50,000|
+|E|Dwarf, Elf, Human, Ork, Troll (1)|2|10|Mundane|8,000|
 
 ## Step 2 - Pick Metatype
 
 Pick a metatype then spend the adjustment points (in the brackets to the right of the metatypes in the chart) on a 1 for 1 upgrade of Edge, Magic or Resonance, or to increase a stat above 6, within the allowable range for your metatype.
 
-**Metatype**|**Body**|**Agility**|**Reaction**|**Strength**|**Willpower**|**Logic**|**Intuition**|**Charisma**|**Edge**|**Racial Qualities**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-Human|1-6|1-6|1-6|1-6|1-6|1-6|1-6|1-6|1-7|None
-Dwarf|1-7|1-6|1-5|1-8|1-7|1-6|1-6|1-6|1-6|Toxin Resistance, Thermographic Vision
-Elf|1-6|1-7|1-6|1-6|1-6|1-6|1-6|1-8|1-6|Low-light Vision
-Ork|1-8|1-6|1-6|1-8|1-6|1-6|1-6|1-5|1-6|Low-light Vision, Built Tough 1
-Troll|1-9|1-5|1-6|1-9|1-6|1-6|1-6|1-5|1-6|Dermal Deposits, Thermographic Vision, Built Tough 2
+|**Metatype**|**Body**|**Agility**|**Reaction**|**Strength**|**Willpower**|**Logic**|**Intuition**|**Charisma**|**Edge**|**Racial Qualities**|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|Human|1-6|1-6|1-6|1-6|1-6|1-6|1-6|1-6|1-7|None|
+|Dwarf|1-7|1-6|1-5|1-8|1-7|1-6|1-6|1-6|1-6|Toxin Resistance, Thermographic Vision|
+|Elf|1-6|1-7|1-6|1-6|1-6|1-6|1-6|1-8|1-6|Low-light Vision|
+|Ork|1-8|1-6|1-6|1-8|1-6|1-6|1-6|1-5|1-6|Low-light Vision, Built Tough 1|
+|Troll|1-9|1-5|1-6|1-9|1-6|1-6|1-6|1-5|1-6|Dermal Deposits, Thermographic Vision, Built Tough 2|
 
 ## Step 3 - Select Attributes
 
@@ -62,25 +62,25 @@ You can use adjustment points from Step 2 to to increase attributes above 6 if y
 
 On a one for one basis, spend your priority's worth of points on skills. You can only increase a skill to rank 6 to begin with (unless you take the Aptitude quality later). You can also pick a single cpecialization within a skill for one point. Skills are on p92:
 
-* Astral - Trained only - Intuition - Full or aspected magician, or adept and mystic adpet with Astral Perception. For Astral combat and sensing auras
-* Athletics - Untrained - Agility - All sorts of athletic business (swimming, climbing, jumping etc)
-* Biotech - Trained only - Logic - Mostly healing, but also if you get into the business of installing cyberware
-* Close Combat - Untrained - Agility - Stabbing stuff
-* Con - Untrained - Charisma - Lying, disguising, impersonating
-* Conjuring - Trained only - Magic - Summoning, binding and dismissing spirits
-* Cracking - Trained only - Logic - Illegally breaking into systems
-* Electronics - Untrained - Logic - Legally using systems, fixing gadgets
-* Enchanting - Trained only - Magic - Making fetishes and foci
-* Engineering - Untrained - Logic - Picking locks, firing mounted guns, mechanics
-* Exotic Weapons - Trained only - Agility - Take a specialisation in this to use a single exotic weapon
-* Firearms - Untrained - Agility - Shooting all types of guns
-* Influence - Untrained - Charisma - Shape opinions of other, negotiation, intimidation, leadership
-* Outdoors - Untrained - Intuition - Survival, tracking
-* Perception - Untrained - Intuition - Noticing things
-* Piloting - Untrained - Reaction - Driving things
-* Sorcery - Trained only - Magic - Casting spells and counterspelling
-* Stealth - Untrained - Agility - Sneaking and disguise
-* Tasking - Trained only - Resonance - For technomancers only. Used for most things technomancery
+- Astral - Trained only - Intuition - Full or aspected magician, or adept and mystic adpet with Astral Perception. For Astral combat and sensing auras
+- Athletics - Untrained - Agility - All sorts of athletic business (swimming, climbing, jumping etc)
+- Biotech - Trained only - Logic - Mostly healing, but also if you get into the business of installing cyberware
+- Close Combat - Untrained - Agility - Stabbing stuff
+- Con - Untrained - Charisma - Lying, disguising, impersonating
+- Conjuring - Trained only - Magic - Summoning, binding and dismissing spirits
+- Cracking - Trained only - Logic - Illegally breaking into systems
+- Electronics - Untrained - Logic - Legally using systems, fixing gadgets
+- Enchanting - Trained only - Magic - Making fetishes and foci
+- Engineering - Untrained - Logic - Picking locks, firing mounted guns, mechanics
+- Exotic Weapons - Trained only - Agility - Take a specialisation in this to use a single exotic weapon
+- Firearms - Untrained - Agility - Shooting all types of guns
+- Influence - Untrained - Charisma - Shape opinions of other, negotiation, intimidation, leadership
+- Outdoors - Untrained - Intuition - Survival, tracking
+- Perception - Untrained - Intuition - Noticing things
+- Piloting - Untrained - Reaction - Driving things
+- Sorcery - Trained only - Magic - Casting spells and counterspelling
+- Stealth - Untrained - Agility - Sneaking and disguise
+- Tasking - Trained only - Resonance - For technomancers only. Used for most things technomancery
 
 ## Step 5 - Pick Magic/Resonance
 
