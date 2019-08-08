@@ -1,3 +1,9 @@
+---
+layout: default
+title: Creating A Character
+nav_order: 1
+---
+
 ## Creating A Character
 
 - [Creating A Character](#creating-a-character)
