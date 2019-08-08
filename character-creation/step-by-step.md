@@ -5,19 +5,22 @@ nav_order: 1
 parent: Creating A Character
 ---
 
-- [Step 1 - Pick Your Priorities](#step-1---pick-your-priorities)
-- [Step 2 - Pick Metatype](#step-2---pick-metatype)
-- [Step 3 - Select Attributes](#step-3---select-attributes)
-- [Step 4 - Assign Skills](#step-4---assign-skills)
-- [Step 5 - Pick Magic/Resonance](#step-5---pick-magicresonance)
-- [Step 6 - Resources](#step-6---resources)
-- [Step 7 - Select Qualities](#step-7---select-qualities)
-- [Step 8 - Spend Karma](#step-8---spend-karma)
-- [Step 9 - Buy Gear](#step-9---buy-gear)
-- [Step 7 - Contacts](#step-7---contacts)
-- [Setp 8 - Knowledge Skills](#setp-8---knowledge-skills)
-- [Step 9 - Language Skills](#step-9---language-skills)
-- [Step 10 - Fill In The Blanks](#step-10---fill-in-the-blanks)
+# Creating A Character: Step by Step
+
+- [Creating A Character: Step by Step](#creating-a-character-step-by-step)
+  - [Step 1 - Pick Your Priorities](#step-1---pick-your-priorities)
+  - [Step 2 - Pick Metatype](#step-2---pick-metatype)
+  - [Step 3 - Select Attributes](#step-3---select-attributes)
+  - [Step 4 - Assign Skills](#step-4---assign-skills)
+  - [Step 5 - Pick Magic/Resonance](#step-5---pick-magicresonance)
+  - [Step 6 - Resources](#step-6---resources)
+  - [Step 7 - Select Qualities](#step-7---select-qualities)
+  - [Step 8 - Spend Karma](#step-8---spend-karma)
+  - [Step 9 - Buy Gear](#step-9---buy-gear)
+  - [Step 7 - Contacts](#step-7---contacts)
+  - [Setp 8 - Knowledge Skills](#setp-8---knowledge-skills)
+  - [Step 9 - Language Skills](#step-9---language-skills)
+  - [Step 10 - Fill In The Blanks](#step-10---fill-in-the-blanks)
 
 ## Step 1 - Pick Your Priorities
 
