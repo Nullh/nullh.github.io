@@ -1,3 +1,9 @@
+---
+layout: default
+title: Landing page
+nav_order: 0
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nullh/nullh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
