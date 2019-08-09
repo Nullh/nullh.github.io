@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Landing page
+title: 6th World Helper
 nav_order: 1
 ---
 
