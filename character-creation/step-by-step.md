@@ -44,19 +44,19 @@ Pick a metatype then spend the adjustment points (in the brackets to the right o
 
 |**Metatype**|**Body**|**Agility**|**Reaction**|**Strength**|**Willpower**|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|Human|1-6|1-6|1-6|1-6|
-|Dwarf|1-7|1-6|1-5|1-8|
-|Elf|1-6|1-7|1-6|1-6|
-|Ork|1-8|1-6|1-6|1-8|
-|Troll|1-9|1-5|1-6|1-9|
+|Human|1-6|1-6|1-6|1-6|1-6|
+|Dwarf|1-7|1-6|1-5|1-8|1-7|
+|Elf|1-6|1-7|1-6|1-6|1-6|
+|Ork|1-8|1-6|1-6|1-8|1-6|
+|Troll|1-9|1-5|1-6|1-9|1-6|
 
 |**Metatype**|**Logic**|**Intuition**|**Charisma**|**Edge**|**Racial Qualities**|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|Human|1-6|1-6|1-6|1-6|1-7|None|
-|Dwarf|1-7|1-6|1-6|1-6|1-6|Toxin Resistance, Thermographic Vision|
-|Elf|1-6|1-6|1-6|1-8|1-6|Low-light Vision|
-|Ork|1-6|1-6|1-6|1-5|1-6|Low-light Vision, Built Tough 1|
-|Troll|1-6|1-6|1-6|1-5|1-6|Dermal Deposits, Thermographic Vision, Built Tough 2|
+|Human|1-6|1-6|1-6|1-7|None|
+|Dwarf|1-6|1-6|1-6|1-6|Toxin Resistance, Thermographic Vision|
+|Elf|1-6|1-6|1-8|1-6|Low-light Vision|
+|Ork|1-6|1-6|1-5|1-6|Low-light Vision, Built Tough 1|
+|Troll|1-6|1-6|1-5|1-6|Dermal Deposits, Thermographic Vision, Built Tough 2|
 
 ## Step 3 - Select Attributes
 
