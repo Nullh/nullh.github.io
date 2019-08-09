@@ -14,21 +14,22 @@ parent: Creating A Character
   - [Step 4 - Assign Skills](#step-4---assign-skills)
   - [Step 5 - Pick Magic/Resonance](#step-5---pick-magicresonance)
   - [Step 6 - Resources](#step-6---resources)
-  - [Step 7 - Select Qualities](#step-7---select-qualities)
-  - [Step 8 - Spend Karma](#step-8---spend-karma)
-  - [Step 9 - Buy Gear](#step-9---buy-gear)
-  - [Step 7 - Contacts](#step-7---contacts)
-  - [Setp 8 - Knowledge Skills](#setp-8---knowledge-skills)
-  - [Step 9 - Language Skills](#step-9---language-skills)
-  - [Step 10 - Fill In The Blanks](#step-10---fill-in-the-blanks)
+  - [Step 7 - Spend Karma](#step-7---spend-karma)
+  - [Step 8 - Buy Gear](#step-8---buy-gear)
+  - [Step 9 - Contacts](#step-9---contacts)
+  - [Setp 10 - Knowledge Skills](#setp-10---knowledge-skills)
+  - [Step 11 - Language Skills](#step-11---language-skills)
+  - [Step 12 - Fill In The Blanks](#step-12---fill-in-the-blanks)
 
 ## Step 1 - Pick Your Priorities
 
 Match each column (Metatype, Attributes, Skills, Magic, Resources) to a priority (A through E). A is most important, E is least. The full table is on p64.
 
-For each priority you get the value of the column you selected for that priority. 
+For each priority you get the value of the column you selected for that priority.
 
 For example picking Resources for Priority C gives you 150,000 nuyen.
+
+*Some advice:* The number of spells or power points an awakened character gets is determined by the magic skill selected from the priority table, not after adjusting the value with metatype adjustement points. If you plan to make an awakened character take this into account when selecting your magic/resonance priority!
 
 |**PRIORITY**|**METATYPE**|**ATTRIBUTES**|**SKILLS**|**MAGIC OR RESONANCE**|**RESOURCES**|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -94,46 +95,51 @@ On a one for one basis, spend your priority's worth of points on skills. You can
 
 Pick what type of magic user you want to be and write down the magic (or resonance) stat for that type. You can increase the magic (or resonance) stats with adjustment points from Step 2.
 
+You have lots of choices about how to make your awakened character. Your basic options are below:
+
+- Full Magician: Can cast sorceries, summon/dispel spirits and perform alchemy. Can percieve and project into the astral realm
+- Aspected Magician: Can only choose one of the aspects of magic - soreceries, summoning/banishing spirits, alchemy. Can perciebve the astral realm
+- Adept: Channels magic into power points, and uses them to buy special powers
+- Other adpet types: Need to read more about these!
+
+Select your spells/powers now.
+
 ## Step 6 - Resources
 
 Note down how many resources you have to buy stuff. You can convert left over karma to resources later.
 
-## Step 7 - Select Qualities
+## Step 7 - Spend Karma
 
-p70 defines these. There are lots! Positive ones cost karma, negative ones give karma.
+You have 50 karma to level up your character. The choices you can make are more limited than your level-up option after you have started the game.
 
-## Step 8 - Spend Karma
-
-You have 50 karma to level up your character. Don't forget to add/deduct karma for the qualities you picked in Step 7.
+Valid choices are below:
 
 **TYPE**|**KARMA COST**
 :-----:|:-----:
 Active skills|5 x new rank
 Specializations|5
-Expertise|5
 Attributes|5 x new rank
 Knowledge skills|3
-Spell|5 per spell
-Complex form|5 per form
-Initiation|10 + initiate grade
-Submersion|10 + submersion level
+Quality|Cost listed on p70 onwards
 
-## Step 9 - Buy Gear
+## Step 8 - Buy Gear
 
 Spend your nuyen on some gear. Leftover karma is converted to nuyen at 1 karma to 2,000 nuyen (or 5,000 if you pick the In Debt negative quality). Gear is on page 244.
 
 You cannot choose any starting gear thats illegal with a rating of 7 or higher.
 
-## Step 7 - Contacts
+## Step 9 - Contacts
 
 TODO
 
-## Setp 8 - Knowledge Skills
+## Setp 10 - Knowledge Skills
 
 TODO
 
-## Step 9 - Language Skills
+## Step 11 - Language Skills
 
 TODO
 
-## Step 10 - Fill In The Blanks
+## Step 12 - Fill In The Blanks
+
+Essence starts at 6!
