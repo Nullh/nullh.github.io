@@ -8,7 +8,7 @@ nav_order: 1
 
 Hoi, chummer!
 
-So chances are you're here because you want to learn how to play Shadorun 6th edition (Also, confusingly known as Shadowrun Sixth World). If that's the case then good news! This is a repository of clarifications and guides about how to actually run 6th edition.
+So chances are you're here because you want to learn how to play Shadowrun 6th edition (Also, confusingly known as Shadowrun Sixth World). If that's the case then good news! This is a repository of clarifications and guides about how to actually run 6th edition.
 
 ## Where's the content?
 
