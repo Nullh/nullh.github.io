@@ -190,4 +190,3 @@ You should now have everything you need to fill in your character sheet. Follow 
   - Lift/Carry is Body + Willpower
 - Fill in your spells/complex forms/programs
 - You're ready to go!
-- 
