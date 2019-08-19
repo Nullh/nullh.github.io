@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Character Sheets
-nav_order: 2
+nav_order: 3
 parent: Creating A Character
 ---
 
