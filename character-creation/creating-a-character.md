@@ -10,6 +10,6 @@ permalink: /character-creation
 
 Character creation in Shadowrun 6th is based on picking the priorities for your character first, then customizing later.
 
-As there area lot of choices to make, and adjusting earlier choices can be hard, it's often better to come up with a character concept before starting.
+As there are a lot of choices to make, and adjusting earlier choices can be hard, it's often better to come up with a character concept before starting.
 
 The following pages will help you create a new character and fill in your character sheet.
