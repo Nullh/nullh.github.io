@@ -43,7 +43,7 @@ For example picking Resources for Priority C gives you 150,000 nuyen.
 
 ## Step 2 - Pick Metatype
 
-Pick a metatype then spend the adjustment points (in the brackets to the right of the metatypes in the chart) on a 1 for 1 upgrade of Edge, Magic or Resonance, or to increase a oneof your metatype's special attributes (the ones that go above 6). Note that your Edge score must be at least 1 and can only be bought with adjustment points.
+Pick a metatype then spend the adjustment points (in the brackets to the right of the metatypes in the chart) on a 1 for 1 upgrade of Edge, Magic or Resonance, or to increase a one of your metatype's special attributes (the ones that go above 6). Note that your Edge score must be at least 1 and can only be bought with adjustment points.
 
 For example an elf can use adjustment points to increase edge, magic/resonance, agility and charisma.
 
@@ -65,7 +65,7 @@ For example an elf can use adjustment points to increase edge, magic/resonance, 
 
 ## Step 3 - Select Attributes
 
-On a 1 for 1 basis spend the attribute points for your attribute priority. All charcters begin with a 1 in every attribute listed in their metatype except Edge, so you begin with 1's in Body, Agility, Reaction, Strength, Willpower, Logic, Intuition and Charisma.
+On a 1 for 1 basis spend the attribute points for your attribute priority. All characters begin with a 1 in every attribute listed in their metatype except Edge, so you begin with 1's in Body, Agility, Reaction, Strength, Willpower, Logic, Intuition and Charisma.
 
 Attributes must be within the range for your metatype.
 
@@ -75,9 +75,9 @@ Only one of your attributes can be at your metatype maximum at character creatio
 
 ## Step 4 - Assign Skills
 
-On a one for one basis, spend your priority's worth of points on skills. You can only increase a skill to rank 6 to begin with (unless you take the Aptitude quality later). You may only have a single skill at rank 6 at charcter creation. You can also pick a single cpecialization within a skill for one point. Skills are on p92:
+On a one for one basis, spend your priority's worth of points on skills. You can only increase a skill to rank 6 to begin with (unless you take the Aptitude quality later). You may only have a single skill at rank 6 at character creation. You can also pick a single specialization within a skill for one point. Skills are on p92:
 
-- Astral - Trained only - Intuition - Full or aspected magician, or adept and mystic adpet with Astral Perception. For Astral combat and sensing auras
+- Astral - Trained only - Intuition - Full or aspected magician, or adept and mystic adept with Astral Perception. For Astral combat and sensing auras
 - Athletics - Untrained - Agility - All sorts of athletic business (swimming, climbing, jumping etc)
 - Biotech - Trained only - Logic - Mostly healing, but also if you get into the business of installing cyberware
 - Close Combat - Untrained - Agility - Stabbing stuff
@@ -87,7 +87,7 @@ On a one for one basis, spend your priority's worth of points on skills. You can
 - Electronics - Untrained - Logic - Legally using systems, fixing gadgets
 - Enchanting - Trained only - Magic - Making fetishes and foci
 - Engineering - Untrained - Logic - Picking locks, firing mounted guns, mechanics
-- Exotic Weapons - Trained only - Agility - Take a specialisation in this to use a single exotic weapon
+- Exotic Weapons - Trained only - Agility - Take a specialization in this to use a single exotic weapon
 - Firearms - Untrained - Agility - Shooting all types of guns
 - Influence - Untrained - Charisma - Shape opinions of other, negotiation, intimidation, leadership
 - Outdoors - Untrained - Intuition - Survival, tracking
@@ -103,8 +103,8 @@ Pick what type of magic user you want to be and write down the magic (or resonan
 
 You have lots of choices about how to make your awakened character. Your basic options are below:
 
-- Magician: Can cast sorceries, summon/dispel spirits and perform alchemy. Can percieve and project into the astral realm
-- Aspected Magician: Can only choose one of the aspects of magic - soreceries, summoning/banishing spirits, alchemy. Can perciebve the astral realm
+- Magician: Can cast sorceries, summon/dispel spirits and perform alchemy. Can perceive and project into the astral realm
+- Aspected Magician: Can only choose one of the aspects of magic - sorceries, summoning/banishing spirits, alchemy. Can perceive the astral realm
 - Adept: Channels magic into power points, and uses them to buy special powers
 - Mystic Adept: A bit of both! Split your magic score between adept powers. Pick a number of spells up to your unadjusted magic x 2. Any magic points not used in this way can be taken as power points and used to buy adept powers
 - Technomancers: Rather than Magic Technomancers use Resonance
@@ -165,20 +165,20 @@ You get a number of points to distribute between your contacts equal to your Cha
 
 ## Step 10 - Knowledge Skills
 
-You gain knowlegde skills equal to you Logic score. Knowlege skills have no rank, you either have them or not. Any knowledge skill points can also be used to buy language skill levels.
+You gain knowledge skills equal to you Logic score. Knowledge skills have no rank, you either have them or not. Any knowledge skill points can also be used to buy language skill levels.
 
 ## Step 11 - Language Skills
 
 Your character gains one native language skill for free. Ranks in other languages can be bought with knowledge skill points (see Step 10 above).
 
-Unlike knwoledge skills, language skills do have ranks and a rank can be purchased at a cost of a knowledge skill point.
+Unlike knowledge skills, language skills do have ranks and a rank can be purchased at a cost of a knowledge skill point.
 
 ## Step 12 - Fill In The Blanks
 
 You should now have everything you need to fill in your character sheet. Follow the steps below to complete it:
 
 - Fill in your final Attributes
-- Fill in your Skills and Specialisations
+- Fill in your Skills and Specializations
 - Fill the specific boxes for armour, weapons and such with your gear
 - Fill in your calculated stats:
   - Essence is 6 minus the essence cost of any augmentations you have installed
